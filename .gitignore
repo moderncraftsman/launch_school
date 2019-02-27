@@ -1,0 +1,2 @@
+# Ignore all SQLite database
+git_basics/db/*.sqlite3
